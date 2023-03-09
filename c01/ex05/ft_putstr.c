@@ -22,3 +22,10 @@ void	ft_putstr(char *str)
 		a++;
 	}
 }
+/*
+int	main()
+{
+	char c[] = "istanbul";
+	ft_putstr(c);
+}
+*\
