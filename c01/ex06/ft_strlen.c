@@ -22,3 +22,10 @@ int	ft_strlen(char *str)
 	}
 	return (a);
 }
+/*
+int	main()
+{
+	char c[] = "istanbul";
+	printf("%d", ft_strlen(c));
+}
+*\
