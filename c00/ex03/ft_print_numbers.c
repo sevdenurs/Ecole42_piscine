@@ -25,6 +25,6 @@ void	ft_print_numbers(void)
 /*
 int main()
 {
-	ft_print_numbers("42istanbul");
+	ft_print_numbers();
 }
 *\
