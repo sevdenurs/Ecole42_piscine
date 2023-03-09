@@ -19,3 +19,18 @@ void	ft_swap(int	*a, int	*b)
 	*a = *b;
 	*b = temp;
 }
+
+/*
+#include <stdio.h>
+int	main()
+{
+	int	x;
+	int	y;
+	
+	x = 8;
+	y = 4;
+	ft_swap(&x, &y);
+	printf("%d \n", x);
+	printf("%d", y);
+}
+*\
