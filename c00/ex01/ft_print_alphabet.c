@@ -23,3 +23,9 @@ void	ft_print_alphabet(void)
 			x++;
 	}
 }
+/*
+int main()
+{
+	ft_print_alphabet("42istanbul");
+}
+*\
