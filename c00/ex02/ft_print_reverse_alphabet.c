@@ -23,3 +23,10 @@ void	ft_print_reverse_alphabet(void)
 			x--;
 	}
 }
+
+/*
+int main()
+{
+	ft_reverse_alphabet("istanbul");
+}
+*\
