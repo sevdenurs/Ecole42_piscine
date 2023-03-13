@@ -24,3 +24,12 @@ char	*ft_strcpy(char	*dest, char	*src)
 	dest[a] = '\0';
 	return (dest);
 }
+/*
+#include <stdio.h>
+int main()
+{
+  char src[] = "se";
+  char dest[] = "";
+  printf("%s", ft_strcpy(dest,src));
+}
+*\
