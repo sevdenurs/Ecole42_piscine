@@ -26,3 +26,11 @@ int	ft_str_is_numeric(char *str)
 	}
 	return (1);
 }
+/*
+#include <stdio.h>
+int main()
+{
+	printf("%d", ft_str_is_numeric("12");
+	printf("%d", ft_str_is_numeric("sa12");
+}
+*\
