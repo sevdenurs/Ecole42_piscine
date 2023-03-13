@@ -30,7 +30,7 @@ int	ft_str_is_numeric(char *str)
 #include <stdio.h>
 int main()
 {
-	printf("%d", ft_str_is_numeric("12");
-	printf("%d", ft_str_is_numeric("sa12");
+	printf("%d", ft_str_is_numeric("12"));
+	printf("%d", ft_str_is_numeric("sa12"));
 }
 *\
