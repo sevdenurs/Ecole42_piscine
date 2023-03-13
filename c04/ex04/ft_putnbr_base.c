@@ -77,3 +77,16 @@ void	ft_putnbr_base(int nbr, char *base)
 		}
 	}
 }
+/*
+#include <stdio.h>
+int		main(void)
+{
+	ft_putnbr_base(42, "01");
+	printf("\n");
+	ft_putnbr_base(40, "poneyvif");
+	printf("\n");
+	ft_putnbr_base(100,"1234567890");
+	printf("\n");
+	ft_putnbr_base(58,"0123456789abcdef");
+}
+\*
