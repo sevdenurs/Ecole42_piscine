@@ -28,3 +28,12 @@ char	*ft_strncpy(char *dest, char *src, unsigned int n)
 	}
 	return (dest);
 }
+/*
+#include <stdio.h>
+int main()
+{
+  char src[] = "araba";
+  char dest[] = "defter";
+  printf("%s", ft_strncpy(dest,src,3));
+}
+\*
