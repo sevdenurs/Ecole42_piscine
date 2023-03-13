@@ -26,3 +26,12 @@ char	*ft_strupcase(char *str)
 	}
 	return (str);
 }
+/*
+#include <stdio.h>
+int main()
+{
+	char str[] = "abcdefghj";
+	printf("%s", ft_strupcase(str));
+}
+*\
+
