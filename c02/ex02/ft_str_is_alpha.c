@@ -30,3 +30,13 @@ int	ft_str_is_alpha(char *str)
 	}
 	return (1);
 }
+/*
+#include <stdio.h>
+int main()
+{
+	printf("%d", ft_str_is_alpha("abcde"));
+	printf("\n%d", ft_str_is_alpha("42"));
+	printf("\n%d", ft_str_is_alpha("abcdef12abc"));
+	printf("\n%d", ft_str_is_alpha(""));
+}
+*/
